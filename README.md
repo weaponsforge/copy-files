@@ -15,8 +15,11 @@
       [+] my_project
       [+] copy-files
       ~~~
-2. Add files and directories in inside **/copy-files**.
-3. Click `main.bat`.
+
+## Usage
+
+1. Add files and directories in inside **/copy-files**.
+2. Click `main.bat`.
 
 @weaponsforge  
 20210827
