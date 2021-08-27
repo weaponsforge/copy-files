@@ -2,6 +2,10 @@
 
 > Copy all directories and files recursively into a specified directory. Overwrites existing files.
 
+## Requirements
+
+- Windows 10 OS
+
 ## Installation
 
 1. Clone this repository relative to the directory that you'd like to copy files into.
